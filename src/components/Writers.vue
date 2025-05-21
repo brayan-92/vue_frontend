@@ -36,7 +36,7 @@
             <input
               id="nacionalidad"
               v-model="form.nacionalidad"
-              placeholder="Ej: Colombiana"
+              placeholder="Ej: Colombiano"
               required
               class="form-input"
             />
